@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/contador-para-la-basa/static/css/main.073c9b0a.css",
-    "main.js": "/contador-para-la-basa/static/js/main.37f8803f.js",
+    "main.css": "/contador-para-la-basa/static/css/main.a6cc8af0.css",
+    "main.js": "/contador-para-la-basa/static/js/main.29905ae6.js",
     "static/js/787.cda612ba.chunk.js": "/contador-para-la-basa/static/js/787.cda612ba.chunk.js",
-    "static/media/logo.svg": "/contador-para-la-basa/static/media/logo.d45ca3846a040b865608c6c9859d9bc9.svg",
     "index.html": "/contador-para-la-basa/index.html",
-    "main.073c9b0a.css.map": "/contador-para-la-basa/static/css/main.073c9b0a.css.map",
-    "main.37f8803f.js.map": "/contador-para-la-basa/static/js/main.37f8803f.js.map",
+    "main.a6cc8af0.css.map": "/contador-para-la-basa/static/css/main.a6cc8af0.css.map",
+    "main.29905ae6.js.map": "/contador-para-la-basa/static/js/main.29905ae6.js.map",
     "787.cda612ba.chunk.js.map": "/contador-para-la-basa/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.37f8803f.js"
+    "static/css/main.a6cc8af0.css",
+    "static/js/main.29905ae6.js"
   ]
 }
